@@ -1,0 +1,30 @@
+{
+  "title": "Meta and Mathematical Analysis of Factors Impacting Riverbed Clogging",
+  "upload_type": "software",
+  "description": "Reproducible notebooks and helper code for the Journal of Hydrology paper on riverbed clogging. Includes sensitivity analyses and figure generation.",
+  "creators": [
+    {
+      "name": "Tripathi, Moulshree"
+    }
+  ],
+  "license": "MIT",
+  "access_right": "open",
+  "keywords": [
+    "hydrology",
+    "riverbed clogging",
+    "hyporheic zone",
+    "managed aquifer recharge",
+    "riverbank filtration",
+    "sensitivity analysis",
+    "SALib",
+    "OpenTURNS",
+    "Python"
+  ],
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "scheme": "url",
+      "identifier": "https://github.com/TMoulshree/Meta-and-Mathematical-Analysis-of-Factors-Impacting-Riverbed-Clogging"
+    }
+  ]
+}

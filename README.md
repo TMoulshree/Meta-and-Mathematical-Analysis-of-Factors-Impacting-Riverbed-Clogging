@@ -1,4 +1,4 @@
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16945588.svg)](https://doi.org/10.5281/zenodo.16945588)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16945587.svg)](https://doi.org/10.5281/zenodo.16945587)
 
 # Clogging paper code
 

@@ -1,7 +1,7 @@
 {
   "title": "Meta and Mathematical Analysis of Factors Impacting Riverbed Clogging",
   "upload_type": "software",
-  "description": "Reproducible notebooks and helper code for the Journal of Hydrology paper on riverbed clogging. Includes sensitivity analyses and figure generation.",
+  "description": "Reproducible notebooks and helper code for the riverbed clogging paper.",
   "creators": [
     {
       "name": "Tripathi, Moulshree"

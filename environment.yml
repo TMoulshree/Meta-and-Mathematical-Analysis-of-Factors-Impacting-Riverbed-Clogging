@@ -1,0 +1,16 @@
+name: clogging-paper
+channels: [conda-forge, defaults]
+dependencies:
+  - python=3.10
+  - numpy
+  - pandas
+  - matplotlib
+  - pip
+  - pip:
+      - jupyter
+      - ipython
+      - plotly
+      - openturns
+      - nbstripout
+      - openpyxl
+      - pyyaml

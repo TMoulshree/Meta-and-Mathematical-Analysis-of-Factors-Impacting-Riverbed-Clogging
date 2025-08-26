@@ -1,1 +1,10 @@
+ipython
+jupyter
+numpy
+pandas
+matplotlib
+plotly
+openturns
+nbstripout
 openpyxl
+pyyaml

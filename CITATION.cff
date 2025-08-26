@@ -4,4 +4,11 @@ authors:
   - family-names: Tripathi
     given-names: Moulshree
 url: "https://github.com/TMoulshree/Meta-and-Mathematical-Analysis-of-Factors-Impacting-Riverbed-Clogging"
-doi: "10.5281/zenodo.XXXXXXX"
+license: MIT
+doi: "10.5281/zenodo.16945588"   # version DOI (v1.0)
+version: "v1.0"
+date-released: "2025-08-26"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.16945587"   # concept DOI (all versions)
+    description: "All versions"

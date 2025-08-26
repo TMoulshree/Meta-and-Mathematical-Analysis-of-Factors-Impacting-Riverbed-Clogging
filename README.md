@@ -1,3 +1,5 @@
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.16945588.svg)](https://doi.org/10.5281/zenodo.16945588)
+
 # Clogging paper code
 
 This repository contains notebooks, data, and helper code to reproduce figures and analyses for the riverbed clogging paper.
